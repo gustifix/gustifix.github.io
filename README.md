@@ -13,3 +13,10 @@ Dimitra Giantsidi, Julian Pritzi, **Felix Gust**, Antonios Katsarakis, Atsushi K
 **Trusted Heterogeneous Disaggregated Architectures.** APSys'23.\
 Atsushi Koshiba, **Felix Gust**, Julian Pritizi, Anjo Vahldiek-Oberwagner, Nuno Santos, Pramod Bhatotia\
 [[Paper]](https://doi.org/10.1145/3609510.3609812) [[Presentation]](https://dse.in.tum.de/wp-content/uploads/2023/08/tdos-apsys-23.pdf)
+
+## Master's Thesis
+
+**Prototyping a Secure Controller for Trusted Heterogeneous Disaggregated Architectures**. 2023\
+Advisor: [Prof. Atsushi Koshiba](https://atsushikoshiba.github.io/)\
+Supervisor: [Prof. Pramod Bhatotia](https://dse.in.tum.de/bhatotia/)\
+[[Thesis]](https://github.com/TUM-DSE/research-work-archive/blob/main/archive/2023/summer/docs/msc_gust_prototyping_a_secure_controller_for_trusted_heterogeneous_disaggregated_architectures.pdf) [[Presentation]](https://github.com/TUM-DSE/research-work-archive/blob/main/archive/2023/summer/talks/msc_gust_prototyping_a_secure_controller_for_trusted_heterogeneous_disaggregated_architectures.pdf)
