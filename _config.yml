@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: Felix Gust
-description: <img src="pic.jpeg" alt="Profile picture"><br>PhD student @ Technical University of Munich
+description: >
+  <div style="text-align:center;">
+    <img src="pic.jpeg" style="width:200px; height:200px; border-radius:50%; object-fit:cover;">
+    <p>PhD student @ Technical University of Munich</p>
+  </div>
