@@ -1,5 +1,7 @@
 ## About Me
 
+Hello there! I am a PhD student at the [Systems Research Group](https://dse.in.tum.de/) at the [Technical University of Munich](https://www.tum.de/), supervised by [Prof. Pramod Bhatotia](https://dse.in.tum.de/bhatotia/). I am mainly interested in accelerated computing using FPGAs, but I am currently also exploring other accelerators like GPUs.
+
 ## Publications
 
 **Proteus: Heterogeneous FPGA Virtualization.** EuroSys'26\
