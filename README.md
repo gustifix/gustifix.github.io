@@ -6,7 +6,7 @@ Hello there! I am a PhD student in Informatics at the [Systems Research Group](h
 
 **Proteus: Heterogeneous FPGA Virtualization.** EuroSys'26\
 **Felix Gust**, Shu Anzai, Charalampos Mainas, Atsushi Koshiba, Pramod Bhatotia\
-[[Paper]](https://doi.org/10.1145/3767295.3803577) [[Presentation]]() [[Code]](https://github.com/TUM-DSE/proteus)
+[[Paper]](https://doi.org/10.1145/3767295.3803577) [[Presentation]](https://docs.google.com/presentation/d/1CVCx0aXOXhfiEA2-R3Wt8G0FqzELfXJFcYiLJVUbT_I/edit?usp=drive_link) [[Code]](https://github.com/TUM-DSE/proteus)
 
 **TNIC: A Trusted NIC Architecture.** ASPLOS'25\
 Dimitra Giantsidi, Julian Pritzi, **Felix Gust**, Antonios Katsarakis, Atsushi Koshiba, Pramod Bhatotia\
