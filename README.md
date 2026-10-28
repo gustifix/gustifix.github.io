@@ -4,6 +4,10 @@ Hello there! I am a PhD student in Informatics at the [Systems Research Group](h
 
 ## Publications
 
+**MCMit: Hardware-Software Co-Design for Mid-circuit Measurement Error Mitigation.** MICRO'26\
+Emmanouil Giortamis, **Felix Gust**, Aleksandra Świerkowska, Sandra Stankovic, Innocenzo Fulginiti, Yanbin Chen, Xiaorang Guo, Benjamin Lienhard, Martin Schulz, Pramod Bhatotia\
+[[Paper]]() [[Presentation]]() [[Code]]() [[Arxiv version]](https://arxiv.org/abs/2604.25863)
+
 **Proteus: Heterogeneous FPGA Virtualization.** EuroSys'26\
 **Felix Gust**, Shu Anzai, Charalampos Mainas, Atsushi Koshiba, Pramod Bhatotia\
 [[Paper]](https://doi.org/10.1145/3767295.3803577) [[Presentation]](https://dse.in.tum.de/wp-content/uploads/2026/05/EuroSys26-Proteus.pdf) [[Code]](https://github.com/TUM-DSE/proteus)
